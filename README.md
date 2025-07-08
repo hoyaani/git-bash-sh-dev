@@ -1,4 +1,5 @@
-# git-bash-sh-dev
+# Git Bash 命令列 UI sh腳本開發
+---
 
 本倉庫用於撰寫並收錄在 Git Bash 命令列 UI 中使用的 Shell 腳本，協助管理本地與遠端 Git 倉庫操作，並提升在 Windows Git Bash 環境下的自動化與易用性。
 
